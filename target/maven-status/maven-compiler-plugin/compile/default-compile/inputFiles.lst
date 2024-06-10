@@ -1,0 +1,8 @@
+C:\Projetos\desafio-backend-api\src\main\java\com\usercase\api\CrudApiApplication.java
+C:\Projetos\desafio-backend-api\src\main\java\com\usercase\api\domain\model\Conta.java
+C:\Projetos\desafio-backend-api\src\main\java\com\usercase\api\domain\repository\ContaRepository.java
+C:\Projetos\desafio-backend-api\src\main\java\com\usercase\api\domain\service\ContaService.java
+C:\Projetos\desafio-backend-api\src\main\java\com\usercase\api\infrastructure\exception\ApiExceptionHandler.java
+C:\Projetos\desafio-backend-api\src\main\java\com\usercase\api\infrastructure\exception\GenericException.java
+C:\Projetos\desafio-backend-api\src\main\java\com\usercase\api\infrastructure\rest\ContaController.java
+C:\Projetos\desafio-backend-api\src\main\java\com\usercase\api\infrastructure\security\SecurityConfig.java

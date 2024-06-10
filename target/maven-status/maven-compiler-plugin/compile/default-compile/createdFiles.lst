@@ -1,0 +1,9 @@
+com\usercase\api\infrastructure\exception\GenericException.class
+com\usercase\api\infrastructure\rest\ContaController.class
+com\usercase\api\infrastructure\security\SecurityConfig.class
+com\usercase\api\domain\service\ContaService.class
+com\usercase\api\CrudApiApplication.class
+com\usercase\api\infrastructure\exception\ApiExceptionHandler$Erro.class
+com\usercase\api\domain\model\Conta.class
+com\usercase\api\domain\repository\ContaRepository.class
+com\usercase\api\infrastructure\exception\ApiExceptionHandler.class
