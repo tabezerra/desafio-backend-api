@@ -36,14 +36,14 @@ spring.flyway.locations=classpath:db/migration
 
     Abra o Postman e crie uma nova requisição:
         Método: GET
-        URL: http://localhost:8080/contas
+        URL: http://localhost:8080/conta
 **********************************************************************************************************************************************
 
 ### Adicionando mais endpoints
 
 Para adicionar mais funcionalidades (como criar, atualizar, ou deletar registros), você pode adicionar mais rotas no seu servidor Express:
 
-## Adicionar uma nova contas
+## Adicionar uma nova conta
 
 app.post('/contas', async (req, res) => {
   const { data_vencimento, data_pagamento, valor, descricao, situacao } = req.body;
